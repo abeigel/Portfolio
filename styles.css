@@ -4,6 +4,22 @@ body {
     background-repeat: no-repeat;
 }
 
+.navbar-dark {
+    color: #52677e;
+}
+
+.btn-outline-dark {
+    background-color: #52677e;
+    border: #52677e;
+}
+h1, p {
+    color:#132334;
+}
+
+.nav-link {
+    font-size:20px;
+}
+
 /* Set padding to keep content from hitting the edges #407296 */
 .body-content {
     margin-top: 15px;
