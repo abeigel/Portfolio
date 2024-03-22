@@ -5,13 +5,12 @@ body {
 }
 
 .navbar-dark {
-    background-color: #6a707e !important;
-    /*#52677e*/
+    background-color: #526477 !important;
 }
 
 .btn-outline-dark {
-    background-color: #6a707e;
-    border: #6a707e;
+    background-color: #526477;
+    border: #526477;
 }
 h1, p {
     color:#132334;
